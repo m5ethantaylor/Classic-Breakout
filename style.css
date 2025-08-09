@@ -1,0 +1,20 @@
+body {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #4d94ff;
+}
+
+canvas {
+    background: #000;
+    display: block;
+    margin: 20px auto;
+    border: 2px solid #4d94ff;
+    box-shadow: 0 0 20px #4d94ff;
+}
